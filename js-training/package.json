@@ -1,0 +1,15 @@
+{
+  "name": "js-training",
+  "version": "1.0.0",
+  "description": "JS coding-dojo",
+  "scripts": {
+    "test": "jest",
+    "watch": "jest --watchAll"
+    },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/jest": "^27.0.2",
+    "jest": "^27.3.1"
+  }
+}
